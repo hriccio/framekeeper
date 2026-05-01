@@ -52,3 +52,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Overrides Stay Explicit](./overrides-stay-explicit.md)
 - [Exploratory Videos Need Extraction](./exploratory-videos-need-extraction.md)
 - [Durable Pages Outlast The Recording](./durable-pages-outlast-the-recording.md)
+- [Memory Is Split By Purpose](./memory-is-split-by-purpose.md)
+- [Change Artifacts Keep The Loop Readable](./change-artifacts-keep-the-loop-readable.md)

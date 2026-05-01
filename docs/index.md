@@ -119,6 +119,11 @@ preserved.
 - [Exploratory Videos Need Extraction](./concepts/exploratory-videos-need-extraction.md)
 - [Durable Pages Outlast The Recording](./concepts/durable-pages-outlast-the-recording.md)
 - [Thinking In Motion Workflow](./notes/0021-thinking-in-motion-workflow.md)
+- [Work Sources Hold Raw Evidence](./episodes/042-work-sources-hold-raw-evidence.md)
+- [Work Changes Preserve Loop History](./episodes/043-work-changes-preserve-loop-history.md)
+- [Memory Is Split By Purpose](./concepts/memory-is-split-by-purpose.md)
+- [Change Artifacts Keep The Loop Readable](./concepts/change-artifacts-keep-the-loop-readable.md)
+- [Repository Memory Workflow](./notes/0022-repository-memory-workflow.md)
 
 ## Working Shape
 

@@ -48,6 +48,8 @@ Episode pages preserve the structured version of one specific video.
 - [Block Means Stop](./039-block-means-stop.md)
 - [Videos Capture Thinking In Motion](./040-videos-capture-thinking-in-motion.md)
 - [Refined Pages Preserve The Idea](./041-refined-pages-preserve-the-idea.md)
+- [Work Sources Hold Raw Evidence](./042-work-sources-hold-raw-evidence.md)
+- [Work Changes Preserve Loop History](./043-work-changes-preserve-loop-history.md)
 
 ## Notes
 

@@ -24,3 +24,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Review Preserves Context](./review-preserves-context.md)
 - [Page Shape Should Stay Predictable](./page-shape-should-stay-predictable.md)
 - [Indices Are Part Of The Content Model](./indices-are-part-of-the-content-model.md)
+- [Version History Is Visible](./version-history-is-visible.md)
+- [Archival Pages Stay Linked](./archival-pages-stay-linked.md)

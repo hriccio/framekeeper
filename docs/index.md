@@ -49,6 +49,11 @@ preserved.
 - [Page Shape Should Stay Predictable](./concepts/page-shape-should-stay-predictable.md)
 - [Indices Are Part Of The Content Model](./concepts/indices-are-part-of-the-content-model.md)
 - [Synchronizing Page Numbers](./notes/0007-synchronizing-page-numbers.md)
+- [Older Pages Still Matter](./episodes/014-older-pages-still-matter.md)
+- [Archives Are Readable](./episodes/015-archives-are-readable.md)
+- [Version History Is Visible](./concepts/version-history-is-visible.md)
+- [Archival Pages Stay Linked](./concepts/archival-pages-stay-linked.md)
+- [Archive Maintenance Workflow](./notes/0008-archive-maintenance-workflow.md)
 
 ## Working Shape
 

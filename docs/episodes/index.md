@@ -20,6 +20,8 @@ Episode pages preserve the structured version of one specific video.
 - [Review Before Publishing](./011-review-before-publishing.md)
 - [Metadata Keeps Pages Readable](./012-metadata-keeps-pages-readable.md)
 - [Template Pages Prevent Drift](./013-template-pages-prevent-drift.md)
+- [Older Pages Still Matter](./014-older-pages-still-matter.md)
+- [Archives Are Readable](./015-archives-are-readable.md)
 
 ## Notes
 
@@ -41,3 +43,5 @@ Episode pages preserve the structured version of one specific video.
 - [Review Before Publishing](./011-review-before-publishing.md)
 - [Metadata Keeps Pages Readable](./012-metadata-keeps-pages-readable.md)
 - [Template Pages Prevent Drift](./013-template-pages-prevent-drift.md)
+- [Older Pages Still Matter](./014-older-pages-still-matter.md)
+- [Archives Are Readable](./015-archives-are-readable.md)

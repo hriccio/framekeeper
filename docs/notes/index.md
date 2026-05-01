@@ -22,6 +22,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Transcript To Public Workflow](./0014-transcript-to-public-workflow.md)
 - [Idea Extraction Workflow](./0015-idea-extraction-workflow.md)
 - [Candidate Promotion Workflow](./0016-candidate-promotion-workflow.md)
+- [Reference Refresh Workflow](./0017-reference-refresh-workflow.md)
 
 ## Notes
 

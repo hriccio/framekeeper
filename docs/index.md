@@ -94,6 +94,11 @@ preserved.
 - [Family Assignment Keeps Drafts Clear](./concepts/family-assignment-keeps-drafts-clear.md)
 - [Draft Candidates Need A Destination](./concepts/draft-candidates-need-a-destination.md)
 - [Candidate Promotion Workflow](./notes/0016-candidate-promotion-workflow.md)
+- [Sources Need Refresh Cycles](./episodes/032-sources-need-refresh-cycles.md)
+- [Policy References Age Over Time](./episodes/033-policy-references-age-over-time.md)
+- [Source Currency Keeps Trust Intact](./concepts/source-currency-keeps-trust-intact.md)
+- [Reference Drift Needs Review](./concepts/reference-drift-needs-review.md)
+- [Reference Refresh Workflow](./notes/0017-reference-refresh-workflow.md)
 
 ## Working Shape
 

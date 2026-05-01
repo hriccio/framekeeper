@@ -42,3 +42,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Draft Pages Need Editorial Shape](./draft-pages-need-editorial-shape.md)
 - [Family Assignment Keeps Drafts Clear](./family-assignment-keeps-drafts-clear.md)
 - [Draft Candidates Need A Destination](./draft-candidates-need-a-destination.md)
+- [Source Currency Keeps Trust Intact](./source-currency-keeps-trust-intact.md)
+- [Reference Drift Needs Review](./reference-drift-needs-review.md)

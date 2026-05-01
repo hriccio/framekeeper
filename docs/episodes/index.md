@@ -38,6 +38,8 @@ Episode pages preserve the structured version of one specific video.
 - [Draft Pages Start As Working Notes](./029-draft-pages-start-as-working-notes.md)
 - [Candidate Ideas Need A Family](./030-candidate-ideas-need-a-family.md)
 - [References Become Reference Pages](./031-references-become-reference-pages.md)
+- [Sources Need Refresh Cycles](./032-sources-need-refresh-cycles.md)
+- [Policy References Age Over Time](./033-policy-references-age-over-time.md)
 
 ## Notes
 

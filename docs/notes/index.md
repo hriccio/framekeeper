@@ -24,6 +24,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Candidate Promotion Workflow](./0016-candidate-promotion-workflow.md)
 - [Reference Refresh Workflow](./0017-reference-refresh-workflow.md)
 - [Content Pruning Workflow](./0018-content-pruning-workflow.md)
+- [Signal To Release Workflow](./0019-signal-to-release-workflow.md)
 
 ## Notes
 

@@ -42,6 +42,8 @@ Episode pages preserve the structured version of one specific video.
 - [Policy References Age Over Time](./033-policy-references-age-over-time.md)
 - [Overlapping Ideas Need Pruning](./034-overlapping-ideas-need-pruning.md)
 - [Pruned Pages Read Better](./035-pruned-pages-read-better.md)
+- [Signal Feedback Stays Diagnostic](./036-signal-feedback-stays-diagnostic.md)
+- [Release Packets Support Review](./037-release-packets-support-review.md)
 
 ## Notes
 

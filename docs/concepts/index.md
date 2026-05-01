@@ -46,3 +46,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Reference Drift Needs Review](./reference-drift-needs-review.md)
 - [Overlap Hurts The Page Family Model](./overlap-hurts-the-page-family-model.md)
 - [Pruning Keeps The Site Focused](./pruning-keeps-the-site-focused.md)
+- [Signal Is Not The Release Gate](./signal-is-not-the-release-gate.md)
+- [Release Packets Keep Review Explicit](./release-packets-keep-review-explicit.md)

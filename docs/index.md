@@ -104,6 +104,11 @@ preserved.
 - [Overlap Hurts The Page Family Model](./concepts/overlap-hurts-the-page-family-model.md)
 - [Pruning Keeps The Site Focused](./concepts/pruning-keeps-the-site-focused.md)
 - [Content Pruning Workflow](./notes/0018-content-pruning-workflow.md)
+- [Signal Feedback Stays Diagnostic](./episodes/036-signal-feedback-stays-diagnostic.md)
+- [Release Packets Support Review](./episodes/037-release-packets-support-review.md)
+- [Signal Is Not The Release Gate](./concepts/signal-is-not-the-release-gate.md)
+- [Release Packets Keep Review Explicit](./concepts/release-packets-keep-review-explicit.md)
+- [Signal To Release Workflow](./notes/0019-signal-to-release-workflow.md)
 
 ## Working Shape
 

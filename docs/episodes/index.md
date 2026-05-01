@@ -60,6 +60,8 @@ Episode pages preserve the structured version of one specific video.
 - [Exposure Follows Acceptance](./051-exposure-follows-acceptance.md)
 - [Feedback Follows Exposure](./052-feedback-follows-exposure.md)
 - [Feedback Feeds The Next Request](./053-feedback-feeds-the-next-request.md)
+- [Requests Need Clear Boundaries](./054-requests-need-clear-boundaries.md)
+- [Slice Maps Make Coverage Visible](./055-slice-maps-make-coverage-visible.md)
 
 ## Notes
 

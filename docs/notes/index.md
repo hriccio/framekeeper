@@ -33,6 +33,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Scenario Evaluation Workflow](./0025-scenario-evaluation-workflow.md)
 - [Release And Exposure Workflow](./0026-release-and-exposure-workflow.md)
 - [Feedback Capture Workflow](./0027-feedback-capture-workflow.md)
+- [Request To Slice Workflow](./0028-request-to-slice-workflow.md)
 
 ## Notes
 

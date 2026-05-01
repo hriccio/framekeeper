@@ -64,3 +64,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Portable Artifacts Support Exposure](./053-portable-artifacts-support-exposure.md)
 - [Feedback Is Distinct From Signal](./054-feedback-is-distinct-from-signal.md)
 - [Feedback Reopens The Loop](./055-feedback-reopens-the-loop.md)
+- [Requests Are Review Units](./056-requests-are-review-units.md)
+- [Slice Docs Keep Build Bounded](./057-slice-docs-keep-build-bounded.md)

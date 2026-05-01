@@ -149,6 +149,11 @@ preserved.
 - [Feedback Is Distinct From Signal](./concepts/054-feedback-is-distinct-from-signal.md)
 - [Feedback Reopens The Loop](./concepts/055-feedback-reopens-the-loop.md)
 - [Feedback Capture Workflow](./notes/0027-feedback-capture-workflow.md)
+- [Requests Need Clear Boundaries](./episodes/054-requests-need-clear-boundaries.md)
+- [Slice Maps Make Coverage Visible](./episodes/055-slice-maps-make-coverage-visible.md)
+- [Requests Are Review Units](./concepts/056-requests-are-review-units.md)
+- [Slice Docs Keep Build Bounded](./concepts/057-slice-docs-keep-build-bounded.md)
+- [Request To Slice Workflow](./notes/0028-request-to-slice-workflow.md)
 
 ## Working Shape
 

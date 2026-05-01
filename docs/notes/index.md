@@ -14,6 +14,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Draft To Refined Workflow](./0006-draft-to-refined-workflow.md)
 - [Synchronizing Page Numbers](./0007-synchronizing-page-numbers.md)
 - [Archive Maintenance Workflow](./0008-archive-maintenance-workflow.md)
+- [Page Family Map](./0009-page-family-map.md)
 
 ## Notes
 

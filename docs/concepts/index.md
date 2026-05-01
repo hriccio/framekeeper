@@ -26,3 +26,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Indices Are Part Of The Content Model](./indices-are-part-of-the-content-model.md)
 - [Version History Is Visible](./version-history-is-visible.md)
 - [Archival Pages Stay Linked](./archival-pages-stay-linked.md)
+- [Page Families Have Different Jobs](./page-families-have-different-jobs.md)
+- [Reference Pages Need Scope](./reference-pages-need-scope.md)

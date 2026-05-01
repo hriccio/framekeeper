@@ -22,6 +22,8 @@ Episode pages preserve the structured version of one specific video.
 - [Template Pages Prevent Drift](./013-template-pages-prevent-drift.md)
 - [Older Pages Still Matter](./014-older-pages-still-matter.md)
 - [Archives Are Readable](./015-archives-are-readable.md)
+- [Content Families Keep The Site Structured](./016-content-families-keep-the-site-structured.md)
+- [Notes Are For Intermediate Thinking](./017-notes-are-for-intermediate-thinking.md)
 
 ## Notes
 
@@ -45,3 +47,5 @@ Episode pages preserve the structured version of one specific video.
 - [Template Pages Prevent Drift](./013-template-pages-prevent-drift.md)
 - [Older Pages Still Matter](./014-older-pages-still-matter.md)
 - [Archives Are Readable](./015-archives-are-readable.md)
+- [Content Families Keep The Site Structured](./016-content-families-keep-the-site-structured.md)
+- [Notes Are For Intermediate Thinking](./017-notes-are-for-intermediate-thinking.md)

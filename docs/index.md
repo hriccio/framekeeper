@@ -54,6 +54,11 @@ preserved.
 - [Version History Is Visible](./concepts/version-history-is-visible.md)
 - [Archival Pages Stay Linked](./concepts/archival-pages-stay-linked.md)
 - [Archive Maintenance Workflow](./notes/0008-archive-maintenance-workflow.md)
+- [Content Families Keep The Site Structured](./episodes/016-content-families-keep-the-site-structured.md)
+- [Notes Are For Intermediate Thinking](./episodes/017-notes-are-for-intermediate-thinking.md)
+- [Page Families Have Different Jobs](./concepts/page-families-have-different-jobs.md)
+- [Reference Pages Need Scope](./concepts/reference-pages-need-scope.md)
+- [Page Family Map](./notes/0009-page-family-map.md)
 
 ## Working Shape
 

@@ -1,0 +1,2 @@
+"""Framekeeper application package."""
+

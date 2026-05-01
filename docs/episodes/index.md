@@ -24,6 +24,8 @@ Episode pages preserve the structured version of one specific video.
 - [Archives Are Readable](./015-archives-are-readable.md)
 - [Content Families Keep The Site Structured](./016-content-families-keep-the-site-structured.md)
 - [Notes Are For Intermediate Thinking](./017-notes-are-for-intermediate-thinking.md)
+- [Titles Should Match The Idea](./018-titles-should-match-the-idea.md)
+- [Summaries Preserve Gist](./019-summaries-preserve-gist.md)
 
 ## Notes
 
@@ -49,3 +51,5 @@ Episode pages preserve the structured version of one specific video.
 - [Archives Are Readable](./015-archives-are-readable.md)
 - [Content Families Keep The Site Structured](./016-content-families-keep-the-site-structured.md)
 - [Notes Are For Intermediate Thinking](./017-notes-are-for-intermediate-thinking.md)
+- [Titles Should Match The Idea](./018-titles-should-match-the-idea.md)
+- [Summaries Preserve Gist](./019-summaries-preserve-gist.md)

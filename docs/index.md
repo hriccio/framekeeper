@@ -59,6 +59,11 @@ preserved.
 - [Page Families Have Different Jobs](./concepts/page-families-have-different-jobs.md)
 - [Reference Pages Need Scope](./concepts/reference-pages-need-scope.md)
 - [Page Family Map](./notes/0009-page-family-map.md)
+- [Titles Should Match The Idea](./episodes/018-titles-should-match-the-idea.md)
+- [Summaries Preserve Gist](./episodes/019-summaries-preserve-gist.md)
+- [Titles And Summaries Have Different Jobs](./concepts/titles-and-summaries-have-different-jobs.md)
+- [Gist Should Stay Aligned](./concepts/gist-should-stay-aligned.md)
+- [Title Summary Workflow](./notes/0010-title-summary-workflow.md)
 
 ## Working Shape
 

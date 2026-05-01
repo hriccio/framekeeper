@@ -28,3 +28,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Archival Pages Stay Linked](./archival-pages-stay-linked.md)
 - [Page Families Have Different Jobs](./page-families-have-different-jobs.md)
 - [Reference Pages Need Scope](./reference-pages-need-scope.md)
+- [Titles And Summaries Have Different Jobs](./titles-and-summaries-have-different-jobs.md)
+- [Gist Should Stay Aligned](./gist-should-stay-aligned.md)

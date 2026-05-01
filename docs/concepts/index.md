@@ -15,3 +15,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Contexto Em IA](./contexto-em-ia.md)
 - [Human Final Authority](./human-final-authority.md)
 - [Safety Vs Signal](./safety-vs-signal.md)
+- [WNT And CodingZen Stay Separate](./wnt-and-codingzen-stay-separate.md)
+- [Manual Publishing Rhythm](./manual-publishing-rhythm.md)

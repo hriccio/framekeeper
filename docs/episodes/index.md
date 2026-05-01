@@ -10,6 +10,8 @@ Episode pages preserve the structured version of one specific video.
 - [Contexto Em IA](./001-contexto-em-ia.md)
 - [Automation Handles Mechanics](./002-automation-handles-mechanics.md)
 - [Safety Is The Hard Gate](./003-safety-is-the-hard-gate.md)
+- [Markdown Is The Source Of Truth](./004-markdown-is-the-source-of-truth.md)
+- [GitHub Pages Is Enough For Now](./005-github-pages-is-enough-for-now.md)
 
 ## Notes
 
@@ -21,3 +23,5 @@ Episode pages preserve the structured version of one specific video.
 
 - [Automation Handles Mechanics](./002-automation-handles-mechanics.md)
 - [Safety Is The Hard Gate](./003-safety-is-the-hard-gate.md)
+- [Markdown Is The Source Of Truth](./004-markdown-is-the-source-of-truth.md)
+- [GitHub Pages Is Enough For Now](./005-github-pages-is-enough-for-now.md)

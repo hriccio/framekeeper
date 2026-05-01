@@ -8,6 +8,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 
 - [Working Notes](./0001-working-notes.md)
 - [Raw And Refined Routing](./0002-raw-and-refined-routing.md)
+- [Published Content Is Not Raw Evidence](./0003-published-content-is-not-raw-evidence.md)
 
 ## Notes
 

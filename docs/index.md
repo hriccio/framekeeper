@@ -24,6 +24,11 @@ preserved.
 - [Human Final Authority](./concepts/human-final-authority.md)
 - [Safety Vs Signal](./concepts/safety-vs-signal.md)
 - [Raw And Refined Routing](./notes/0002-raw-and-refined-routing.md)
+- [Markdown Is The Source Of Truth](./episodes/004-markdown-is-the-source-of-truth.md)
+- [GitHub Pages Is Enough For Now](./episodes/005-github-pages-is-enough-for-now.md)
+- [WNT And CodingZen Stay Separate](./concepts/wnt-and-codingzen-stay-separate.md)
+- [Manual Publishing Rhythm](./concepts/manual-publishing-rhythm.md)
+- [Published Content Is Not Raw Evidence](./notes/0003-published-content-is-not-raw-evidence.md)
 
 ## Working Shape
 

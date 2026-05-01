@@ -72,3 +72,15 @@ MRL operating material and repository support material are licensed under MIT.
 Project-specific material is licensed under MPL 2.0.
 
 See `LICENSE` and `LICENSES/` for the scope boundary and the full texts.
+
+## GitHub Pages Knowledge Layer
+
+The public knowledge layer lives under `docs/`.
+
+To publish it through GitHub Pages, configure the repository to serve from the
+`docs/` folder on the default branch. The site entry point is `docs/index.md`.
+Section pages live under `docs/episodes/`, `docs/concepts/`, and
+`docs/references/`.
+
+Raw transcripts should stay outside the published site unless they are
+intentionally exposed later.

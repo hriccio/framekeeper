@@ -139,6 +139,11 @@ preserved.
 - [Validation Modes Guide Slice Strategy](./concepts/050-validation-modes-guide-slice-strategy.md)
 - [Deterministic Packets Keep Evidence Reviewable](./concepts/051-deterministic-packets-keep-evidence-reviewable.md)
 - [Scenario Evaluation Workflow](./notes/0025-scenario-evaluation-workflow.md)
+- [Release Decisions Stay Explicit](./episodes/050-release-decisions-stay-explicit.md)
+- [Exposure Follows Acceptance](./episodes/051-exposure-follows-acceptance.md)
+- [Release Is Not Exposure](./concepts/052-release-is-not-exposure.md)
+- [Portable Artifacts Support Exposure](./concepts/053-portable-artifacts-support-exposure.md)
+- [Release And Exposure Workflow](./notes/0026-release-and-exposure-workflow.md)
 
 ## Working Shape
 

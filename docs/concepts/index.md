@@ -60,3 +60,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Runtime Topology Belongs To The Pack](./runtime-topology-belongs-to-the-pack.md)
 - [Validation Modes Guide Slice Strategy](./050-validation-modes-guide-slice-strategy.md)
 - [Deterministic Packets Keep Evidence Reviewable](./051-deterministic-packets-keep-evidence-reviewable.md)
+- [Release Is Not Exposure](./052-release-is-not-exposure.md)
+- [Portable Artifacts Support Exposure](./053-portable-artifacts-support-exposure.md)

@@ -56,6 +56,8 @@ Episode pages preserve the structured version of one specific video.
 - [Python DDD Monolith Is A Selected Pack](./047-python-ddd-monolith-is-a-selected-pack.md)
 - [Scenario Evaluation Is Not Tests](./048-scenario-evaluation-is-not-tests.md)
 - [Lightweight EGD Is The Earlier-Stage Default](./049-lightweight-egd-is-the-earlier-stage-default.md)
+- [Release Decisions Stay Explicit](./050-release-decisions-stay-explicit.md)
+- [Exposure Follows Acceptance](./051-exposure-follows-acceptance.md)
 
 ## Notes
 

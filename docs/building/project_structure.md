@@ -146,8 +146,14 @@ Preserve original evidence in `work/sources/` before extraction or refinement ar
 ### `src/`
 Contains production code shaped by the selected pack.
 
+Files created under `src/` should carry an MPL 2.0 notice unless a more
+specific license statement is added at the directory or file level.
+
 ### `tests/`
 Contains executable specification and integration validation shaped by the selected pack.
+
+Files created under `tests/` should carry an MPL 2.0 notice unless a more
+specific license statement is added at the directory or file level.
 
 ### `scripts/`
 Contains small runners or maintenance scripts useful for local development.
@@ -162,6 +168,19 @@ Contains implementation-adjacent documentation that should not live in the root 
 
 ### `docs/slices/`
 Contains one document per vertical slice, including discovery scope, use-case contract, initial rules, test plan, scenario definition, and done criteria.
+
+### License Scope
+
+This repository uses a split license boundary.
+
+- MIT applies to the MRL operating material and repository support material:
+  `AGENTS.md`, `.agents/skills/`, and `docs/operating/`
+- MPL 2.0 applies to project-specific material:
+  the root strategic docs, `docs/building/`, `docs/evaluation/`, `docs/packs/`,
+  `docs/semantics/`, `docs/slices/`, `work/`, `src/`, `tests/`, and runtime assets
+
+When a directory needs a different statement, add a directory-level notice or a
+file-level header that makes the scope unambiguous.
 
 ---
 

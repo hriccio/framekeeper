@@ -34,6 +34,8 @@ Episode pages preserve the structured version of one specific video.
 - [Source Links Need An Anchor](./025-source-links-need-an-anchor.md)
 - [Raw Transcripts Stay Private](./026-raw-transcripts-stay-private.md)
 - [Public Pages Are Refined](./027-public-pages-are-refined.md)
+- [Ideas Are Extracted From Videos](./028-ideas-are-extracted-from-videos.md)
+- [Draft Pages Start As Working Notes](./029-draft-pages-start-as-working-notes.md)
 
 ## Notes
 

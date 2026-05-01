@@ -38,3 +38,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Reference Pages Are Not Dumps](./reference-pages-are-not-dumps.md)
 - [Raw Evidence Is Not The Site](./raw-evidence-is-not-the-site.md)
 - [Public Content Needs Selection](./public-content-needs-selection.md)
+- [Extraction Turns Transcripts Into Candidates](./extraction-turns-transcripts-into-candidates.md)
+- [Draft Pages Need Editorial Shape](./draft-pages-need-editorial-shape.md)

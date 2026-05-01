@@ -84,6 +84,11 @@ preserved.
 - [Raw Evidence Is Not The Site](./concepts/raw-evidence-is-not-the-site.md)
 - [Public Content Needs Selection](./concepts/public-content-needs-selection.md)
 - [Transcript To Public Workflow](./notes/0014-transcript-to-public-workflow.md)
+- [Ideas Are Extracted From Videos](./episodes/028-ideas-are-extracted-from-videos.md)
+- [Draft Pages Start As Working Notes](./episodes/029-draft-pages-start-as-working-notes.md)
+- [Extraction Turns Transcripts Into Candidates](./concepts/extraction-turns-transcripts-into-candidates.md)
+- [Draft Pages Need Editorial Shape](./concepts/draft-pages-need-editorial-shape.md)
+- [Idea Extraction Workflow](./notes/0015-idea-extraction-workflow.md)
 
 ## Working Shape
 

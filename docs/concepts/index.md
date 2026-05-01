@@ -40,3 +40,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Public Content Needs Selection](./public-content-needs-selection.md)
 - [Extraction Turns Transcripts Into Candidates](./extraction-turns-transcripts-into-candidates.md)
 - [Draft Pages Need Editorial Shape](./draft-pages-need-editorial-shape.md)
+- [Family Assignment Keeps Drafts Clear](./family-assignment-keeps-drafts-clear.md)
+- [Draft Candidates Need A Destination](./draft-candidates-need-a-destination.md)

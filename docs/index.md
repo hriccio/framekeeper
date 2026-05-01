@@ -89,6 +89,11 @@ preserved.
 - [Extraction Turns Transcripts Into Candidates](./concepts/extraction-turns-transcripts-into-candidates.md)
 - [Draft Pages Need Editorial Shape](./concepts/draft-pages-need-editorial-shape.md)
 - [Idea Extraction Workflow](./notes/0015-idea-extraction-workflow.md)
+- [Candidate Ideas Need A Family](./episodes/030-candidate-ideas-need-a-family.md)
+- [References Become Reference Pages](./episodes/031-references-become-reference-pages.md)
+- [Family Assignment Keeps Drafts Clear](./concepts/family-assignment-keeps-drafts-clear.md)
+- [Draft Candidates Need A Destination](./concepts/draft-candidates-need-a-destination.md)
+- [Candidate Promotion Workflow](./notes/0016-candidate-promotion-workflow.md)
 
 ## Working Shape
 

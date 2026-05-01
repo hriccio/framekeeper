@@ -36,6 +36,8 @@ Episode pages preserve the structured version of one specific video.
 - [Public Pages Are Refined](./027-public-pages-are-refined.md)
 - [Ideas Are Extracted From Videos](./028-ideas-are-extracted-from-videos.md)
 - [Draft Pages Start As Working Notes](./029-draft-pages-start-as-working-notes.md)
+- [Candidate Ideas Need A Family](./030-candidate-ideas-need-a-family.md)
+- [References Become Reference Pages](./031-references-become-reference-pages.md)
 
 ## Notes
 

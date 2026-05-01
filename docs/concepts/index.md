@@ -13,3 +13,5 @@ Reusable ideas that appear across multiple videos belong here.
 ## Seeded Concepts
 
 - [Contexto Em IA](./contexto-em-ia.md)
+- [Human Final Authority](./human-final-authority.md)
+- [Safety Vs Signal](./safety-vs-signal.md)

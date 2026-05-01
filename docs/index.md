@@ -19,6 +19,11 @@ preserved.
 - [Contexto Em IA concept](./concepts/contexto-em-ia.md)
 - [GitHub Pages reference](./references/github-pages.md)
 - [Working Notes](./notes/0001-working-notes.md)
+- [Automation Handles Mechanics](./episodes/002-automation-handles-mechanics.md)
+- [Safety Is The Hard Gate](./episodes/003-safety-is-the-hard-gate.md)
+- [Human Final Authority](./concepts/human-final-authority.md)
+- [Safety Vs Signal](./concepts/safety-vs-signal.md)
+- [Raw And Refined Routing](./notes/0002-raw-and-refined-routing.md)
 
 ## Working Shape
 

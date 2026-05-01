@@ -7,10 +7,10 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 ## Seeded Notes
 
 - [Working Notes](./0001-working-notes.md)
+- [Raw And Refined Routing](./0002-raw-and-refined-routing.md)
 
 ## Notes
 
 - keep note pages short
 - use notes for intermediate thinking, not raw transcript dumps
 - link out to episodes, concepts, and references when useful
-

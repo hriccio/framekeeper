@@ -26,6 +26,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Content Pruning Workflow](./0018-content-pruning-workflow.md)
 - [Signal To Release Workflow](./0019-signal-to-release-workflow.md)
 - [Safety Tier Workflow](./0020-safety-tier-workflow.md)
+- [Thinking In Motion Workflow](./0021-thinking-in-motion-workflow.md)
 
 ## Notes
 

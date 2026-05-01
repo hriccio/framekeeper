@@ -46,6 +46,8 @@ Episode pages preserve the structured version of one specific video.
 - [Release Packets Support Review](./037-release-packets-support-review.md)
 - [Review Is Not Block](./038-review-is-not-block.md)
 - [Block Means Stop](./039-block-means-stop.md)
+- [Videos Capture Thinking In Motion](./040-videos-capture-thinking-in-motion.md)
+- [Refined Pages Preserve The Idea](./041-refined-pages-preserve-the-idea.md)
 
 ## Notes
 

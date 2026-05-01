@@ -114,6 +114,11 @@ preserved.
 - [Review And Block Are Distinct](./concepts/review-and-block-are-distinct.md)
 - [Overrides Stay Explicit](./concepts/overrides-stay-explicit.md)
 - [Safety Tier Workflow](./notes/0020-safety-tier-workflow.md)
+- [Videos Capture Thinking In Motion](./episodes/040-videos-capture-thinking-in-motion.md)
+- [Refined Pages Preserve The Idea](./episodes/041-refined-pages-preserve-the-idea.md)
+- [Exploratory Videos Need Extraction](./concepts/exploratory-videos-need-extraction.md)
+- [Durable Pages Outlast The Recording](./concepts/durable-pages-outlast-the-recording.md)
+- [Thinking In Motion Workflow](./notes/0021-thinking-in-motion-workflow.md)
 
 ## Working Shape
 

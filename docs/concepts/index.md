@@ -50,3 +50,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Release Packets Keep Review Explicit](./release-packets-keep-review-explicit.md)
 - [Review And Block Are Distinct](./review-and-block-are-distinct.md)
 - [Overrides Stay Explicit](./overrides-stay-explicit.md)
+- [Exploratory Videos Need Extraction](./exploratory-videos-need-extraction.md)
+- [Durable Pages Outlast The Recording](./durable-pages-outlast-the-recording.md)

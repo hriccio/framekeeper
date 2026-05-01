@@ -44,6 +44,8 @@ Episode pages preserve the structured version of one specific video.
 - [Pruned Pages Read Better](./035-pruned-pages-read-better.md)
 - [Signal Feedback Stays Diagnostic](./036-signal-feedback-stays-diagnostic.md)
 - [Release Packets Support Review](./037-release-packets-support-review.md)
+- [Review Is Not Block](./038-review-is-not-block.md)
+- [Block Means Stop](./039-block-means-stop.md)
 
 ## Notes
 

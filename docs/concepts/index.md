@@ -48,3 +48,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Pruning Keeps The Site Focused](./pruning-keeps-the-site-focused.md)
 - [Signal Is Not The Release Gate](./signal-is-not-the-release-gate.md)
 - [Release Packets Keep Review Explicit](./release-packets-keep-review-explicit.md)
+- [Review And Block Are Distinct](./review-and-block-are-distinct.md)
+- [Overrides Stay Explicit](./overrides-stay-explicit.md)

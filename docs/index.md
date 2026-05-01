@@ -109,6 +109,11 @@ preserved.
 - [Signal Is Not The Release Gate](./concepts/signal-is-not-the-release-gate.md)
 - [Release Packets Keep Review Explicit](./concepts/release-packets-keep-review-explicit.md)
 - [Signal To Release Workflow](./notes/0019-signal-to-release-workflow.md)
+- [Review Is Not Block](./episodes/038-review-is-not-block.md)
+- [Block Means Stop](./episodes/039-block-means-stop.md)
+- [Review And Block Are Distinct](./concepts/review-and-block-are-distinct.md)
+- [Overrides Stay Explicit](./concepts/overrides-stay-explicit.md)
+- [Safety Tier Workflow](./notes/0020-safety-tier-workflow.md)
 
 ## Working Shape
 

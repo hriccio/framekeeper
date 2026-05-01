@@ -12,13 +12,17 @@ These rules should be treated as default constraints unless a deliberate archite
 
 ## Primary Objective
 
-The objective of this project is to **refine business models** and make business behavior executable, testable, and inspectable.
+The objective of this project is to make the `@umoutrohenrique` video
+processing and classification workflow executable, testable, and inspectable.
 
-This is **not** a production rewrite, infrastructure exercise, or framework showcase.
+This is **not** a publishing bot, infrastructure exercise, performance
+optimization tool, or framework showcase.
 
 Every implementation choice should be evaluated by asking:
 
-- does this clarify business behavior?
+- does this preserve the separation between safety and signal?
+- does this keep Henrique as the final publication authority?
+- does this clarify video processing behavior?
 - does this improve testability?
 - does this reduce accidental complexity?
 - does this preserve inspectability?
@@ -428,4 +432,3 @@ The default posture for this project is:
 - explicit code over clever code
 
 When unsure, optimize for clarity and model quality, not for production mimicry.
-

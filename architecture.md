@@ -4,13 +4,15 @@
 
 This document defines the architectural shape selected for this repository. Its goal is to give AI coding agents and humans a stable base for implementation decisions, naming, boundaries, and trade-offs without implying that one architecture is mandatory for all MRL repositories.
 
-This project is **not** intended to be a full production rewrite of the current system. It is a **model laboratory** used to:
+Framekeeper is **not** a publishing automation system or a performance
+optimization tool. It is a **video intake and classification model laboratory**
+used to:
 
-- refine business models currently represented on model hypothesis
-- isolate business rules from infrastructure concerns
-- simulate external dependencies locally
-- derive and validate use cases from frontend behavior
-- make rules executable, testable, inspectable, and easier to evolve
+- make the video processing workflow executable, testable, and inspectable
+- isolate safety classification from soft signal feedback
+- simulate transcription and LLM classification locally before real integrations
+- preserve human authority over meaning and publication
+- prepare durable artifacts for later knowledge-layer extraction
 
 ---
 
@@ -52,6 +54,14 @@ It should prefer:
 - testability and inspectability over premature realism
 
 This project is a **refinement environment**, not a microservices platform.
+
+For Framekeeper, the first architectural boundary to protect is:
+
+```text
+processing mechanics != safety gate != signal feedback != human publication decision
+```
+
+Do not collapse these responsibilities into one generic processor.
 
 That statement is local to this selected pack. MRL as a workflow does not require a modular monolith and can support multi-process or multi-runtime systems when the model requires them.
 

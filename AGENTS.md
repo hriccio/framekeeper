@@ -1,7 +1,15 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-This repository is an MRL starter. Strategic docs live at the root and working design material lives under `docs/`. Read `docs/operating/mrl_reference.md` and `docs/operating/skills_workflow.md` before changing the workflow.
+This repository is an MRL-based project named Framekeeper. Strategic docs live at the root and working design material lives under `docs/`. Read `docs/operating/mrl_reference.md` and `docs/operating/skills_workflow.md` before changing the workflow.
+
+Project-specific context lives in:
+
+- `readme.md`
+- `docs/semantics/model_hypothesis.md`
+- `docs/semantics/domain_background_knowledge.md`
+- `docs/slices/0001-video-processing-classification.md`
+- `work/sources/initial_handoff/`
 
 On the first pass through this repository's guidance, consider `.agents/skills/adoption-diagnose/SKILL.md` before substantial project-specific work. Use it when licensing, README content, selected pack, semantic placeholders, or other starter-adoption decisions have not clearly been settled in repository artifacts.
 

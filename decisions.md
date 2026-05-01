@@ -39,6 +39,53 @@ Any additional implementation guidance, migration note, or follow-up.
 
 Add entries as the repository evolves.
 
+## DEC-0013 - Adopt Framekeeper As The Project Identity
+
+- Date: 2026-05-01
+- Status: accepted
+- Owners: both
+
+### Context
+This repository was created from `wastingnotime/mrl-starter` to support a tool
+for processing and classifying videos for `@umoutrohenrique`.
+
+The source context requires a strict boundary: automation may handle mechanical
+processing, safety checks, and diagnostic feedback, but Henrique remains the
+final authority over meaning and publication.
+
+### Decision
+The adopting repository is named `framekeeper`.
+
+It will model a video intake and classification pipeline that separates:
+
+- processing mechanics
+- hard safety classification
+- soft signal feedback
+- optional knowledge-layer artifact preparation
+
+The default starter implementation pack is retained temporarily until the first
+`extract` and `refine` passes decide whether Python DDD monolith remains the
+right implementation shape.
+
+### Consequences
+The repository now has project-specific README, semantic, source, and first
+slice artifacts. Future Codex sessions should treat the copied starter material
+as workflow infrastructure, not as the project domain.
+
+The first implementation should avoid automatic publishing and should prove the
+safety/signal separation before adding integrations.
+
+### Alternatives considered
+Use a channel-branded name such as `um-outro-henrique-pipeline`. This was not
+chosen because the tool should name the processing responsibility rather than
+the creator identity.
+
+Use a generic name such as `video-classifier`. This was not chosen because it
+does not capture the human-authority boundary or the release-review role.
+
+### Notes
+The original handoff files are preserved under `work/sources/initial_handoff/`.
+
 ## DEC-0001 - Separate MRL Core From Implementation Packs
 
 - Date: 2026-03-29

@@ -34,6 +34,11 @@ preserved.
 - [Curated References Are Evidence](./concepts/curated-references-are-evidence.md)
 - [YouTube Community Guidelines](./references/youtube-community-guidelines.md)
 - [Reference Curation Workflow](./notes/0004-reference-curation-workflow.md)
+- [Episodes Should Stay Short](./episodes/008-episodes-should-stay-short.md)
+- [Concepts Point To Episodes](./episodes/009-concepts-point-to-episodes.md)
+- [Local Links Make The Site Relatable](./concepts/local-links-make-the-site-relatable.md)
+- [Source Discipline Keeps Content Honest](./concepts/source-discipline-keeps-content-honest.md)
+- [Adding New Pages Workflow](./notes/0005-adding-new-pages-workflow.md)
 
 ## Working Shape
 

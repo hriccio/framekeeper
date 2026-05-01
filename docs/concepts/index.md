@@ -18,3 +18,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [WNT And CodingZen Stay Separate](./wnt-and-codingzen-stay-separate.md)
 - [Manual Publishing Rhythm](./manual-publishing-rhythm.md)
 - [Curated References Are Evidence](./curated-references-are-evidence.md)
+- [Local Links Make The Site Relatable](./local-links-make-the-site-relatable.md)
+- [Source Discipline Keeps Content Honest](./source-discipline-keeps-content-honest.md)

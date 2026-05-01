@@ -144,6 +144,11 @@ preserved.
 - [Release Is Not Exposure](./concepts/052-release-is-not-exposure.md)
 - [Portable Artifacts Support Exposure](./concepts/053-portable-artifacts-support-exposure.md)
 - [Release And Exposure Workflow](./notes/0026-release-and-exposure-workflow.md)
+- [Feedback Follows Exposure](./episodes/052-feedback-follows-exposure.md)
+- [Feedback Feeds The Next Request](./episodes/053-feedback-feeds-the-next-request.md)
+- [Feedback Is Distinct From Signal](./concepts/054-feedback-is-distinct-from-signal.md)
+- [Feedback Reopens The Loop](./concepts/055-feedback-reopens-the-loop.md)
+- [Feedback Capture Workflow](./notes/0027-feedback-capture-workflow.md)
 
 ## Working Shape
 

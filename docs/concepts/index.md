@@ -62,3 +62,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Deterministic Packets Keep Evidence Reviewable](./051-deterministic-packets-keep-evidence-reviewable.md)
 - [Release Is Not Exposure](./052-release-is-not-exposure.md)
 - [Portable Artifacts Support Exposure](./053-portable-artifacts-support-exposure.md)
+- [Feedback Is Distinct From Signal](./054-feedback-is-distinct-from-signal.md)
+- [Feedback Reopens The Loop](./055-feedback-reopens-the-loop.md)

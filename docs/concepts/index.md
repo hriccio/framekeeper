@@ -54,3 +54,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Durable Pages Outlast The Recording](./durable-pages-outlast-the-recording.md)
 - [Memory Is Split By Purpose](./memory-is-split-by-purpose.md)
 - [Change Artifacts Keep The Loop Readable](./change-artifacts-keep-the-loop-readable.md)
+- [Inspectable Runs Need Clear Artifacts](./inspectable-runs-need-clear-artifacts.md)
+- [Transcripts Are Intermediate Artifacts](./transcripts-are-intermediate-artifacts.md)

@@ -124,6 +124,11 @@ preserved.
 - [Memory Is Split By Purpose](./concepts/memory-is-split-by-purpose.md)
 - [Change Artifacts Keep The Loop Readable](./concepts/change-artifacts-keep-the-loop-readable.md)
 - [Repository Memory Workflow](./notes/0022-repository-memory-workflow.md)
+- [Processing Runs Stay Inspectable](./episodes/044-processing-runs-stay-inspectable.md)
+- [Transcripts And Metadata Travel Together](./episodes/045-transcripts-and-metadata-travel-together.md)
+- [Inspectable Runs Need Clear Artifacts](./concepts/inspectable-runs-need-clear-artifacts.md)
+- [Transcripts Are Intermediate Artifacts](./concepts/transcripts-are-intermediate-artifacts.md)
+- [Processing Run Workflow](./notes/0023-processing-run-workflow.md)
 
 ## Working Shape
 

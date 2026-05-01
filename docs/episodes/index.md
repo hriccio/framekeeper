@@ -50,6 +50,8 @@ Episode pages preserve the structured version of one specific video.
 - [Refined Pages Preserve The Idea](./041-refined-pages-preserve-the-idea.md)
 - [Work Sources Hold Raw Evidence](./042-work-sources-hold-raw-evidence.md)
 - [Work Changes Preserve Loop History](./043-work-changes-preserve-loop-history.md)
+- [Processing Runs Stay Inspectable](./044-processing-runs-stay-inspectable.md)
+- [Transcripts And Metadata Travel Together](./045-transcripts-and-metadata-travel-together.md)
 
 ## Notes
 

@@ -28,6 +28,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Safety Tier Workflow](./0020-safety-tier-workflow.md)
 - [Thinking In Motion Workflow](./0021-thinking-in-motion-workflow.md)
 - [Repository Memory Workflow](./0022-repository-memory-workflow.md)
+- [Processing Run Workflow](./0023-processing-run-workflow.md)
 
 ## Notes
 

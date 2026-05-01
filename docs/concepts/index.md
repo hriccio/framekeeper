@@ -58,3 +58,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Transcripts Are Intermediate Artifacts](./transcripts-are-intermediate-artifacts.md)
 - [MRL Core Is Separate From Packs](./mrl-core-is-separate-from-packs.md)
 - [Runtime Topology Belongs To The Pack](./runtime-topology-belongs-to-the-pack.md)
+- [Validation Modes Guide Slice Strategy](./050-validation-modes-guide-slice-strategy.md)
+- [Deterministic Packets Keep Evidence Reviewable](./051-deterministic-packets-keep-evidence-reviewable.md)

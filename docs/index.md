@@ -134,6 +134,11 @@ preserved.
 - [MRL Core Is Separate From Packs](./concepts/mrl-core-is-separate-from-packs.md)
 - [Runtime Topology Belongs To The Pack](./concepts/runtime-topology-belongs-to-the-pack.md)
 - [Pack Selection Workflow](./notes/0024-pack-selection-workflow.md)
+- [Scenario Evaluation Is Not Tests](./episodes/048-scenario-evaluation-is-not-tests.md)
+- [Lightweight EGD Is The Earlier-Stage Default](./episodes/049-lightweight-egd-is-the-earlier-stage-default.md)
+- [Validation Modes Guide Slice Strategy](./concepts/050-validation-modes-guide-slice-strategy.md)
+- [Deterministic Packets Keep Evidence Reviewable](./concepts/051-deterministic-packets-keep-evidence-reviewable.md)
+- [Scenario Evaluation Workflow](./notes/0025-scenario-evaluation-workflow.md)
 
 ## Working Shape
 

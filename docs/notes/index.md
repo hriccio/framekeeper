@@ -30,6 +30,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Repository Memory Workflow](./0022-repository-memory-workflow.md)
 - [Processing Run Workflow](./0023-processing-run-workflow.md)
 - [Pack Selection Workflow](./0024-pack-selection-workflow.md)
+- [Scenario Evaluation Workflow](./0025-scenario-evaluation-workflow.md)
 
 ## Notes
 

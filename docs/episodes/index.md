@@ -54,6 +54,8 @@ Episode pages preserve the structured version of one specific video.
 - [Transcripts And Metadata Travel Together](./045-transcripts-and-metadata-travel-together.md)
 - [Packs Define Implementation Defaults](./046-packs-define-implementation-defaults.md)
 - [Python DDD Monolith Is A Selected Pack](./047-python-ddd-monolith-is-a-selected-pack.md)
+- [Scenario Evaluation Is Not Tests](./048-scenario-evaluation-is-not-tests.md)
+- [Lightweight EGD Is The Earlier-Stage Default](./049-lightweight-egd-is-the-earlier-stage-default.md)
 
 ## Notes
 

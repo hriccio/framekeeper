@@ -39,6 +39,29 @@ Any additional implementation guidance, migration note, or follow-up.
 
 Add entries as the repository evolves.
 
+## DEC-0014 - License Non-MRL Material Under MPL 2.0
+
+- Date: 2026-05-01
+- Status: accepted
+- Owners: both
+
+### Context
+The repository has a split shape: MRL operating material and support artifacts are reusable workflow infrastructure, while the project-specific docs, pack guidance, semantics, slices, and implementation surfaces are Framekeeper-specific. The repository needs those two groups to carry different sharing terms.
+
+### Decision
+Keep the MRL operating material and repository support material under MIT, and license the project-specific material under MPL 2.0.
+
+The repository-level `LICENSE` file now documents that boundary, and the full license texts live under `LICENSES/`.
+
+### Consequences
+Contributors can tell which parts of the repository are reusable workflow material and which parts are project-specific. Future code, tests, and project docs should be placed under the MPL 2.0 scope unless a file or directory explicitly says otherwise.
+
+### Alternatives considered
+Use one license for the whole repository. That was rejected because the repo contains reusable MRL machinery alongside project-specific implementation and domain material with different intended reuse terms.
+
+### Notes
+This decision aligns with the starter guidance for split-license adopters.
+
 ## DEC-0013 - Adopt Framekeeper As The Project Identity
 
 - Date: 2026-05-01

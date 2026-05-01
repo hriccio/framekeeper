@@ -65,3 +65,10 @@ Read these files before substantial work:
 
 Recommended next phase: run `extract` from the initial handoff sources, then
 run `refine` for the first minimal slice.
+
+## License
+
+MRL operating material and repository support material are licensed under MIT.
+Project-specific material is licensed under MPL 2.0.
+
+See `LICENSE` and `LICENSES/` for the scope boundary and the full texts.

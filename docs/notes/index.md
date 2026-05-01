@@ -34,6 +34,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Release And Exposure Workflow](./0026-release-and-exposure-workflow.md)
 - [Feedback Capture Workflow](./0027-feedback-capture-workflow.md)
 - [Request To Slice Workflow](./0028-request-to-slice-workflow.md)
+- [Avoid MRL Meta Drift](./0029-avoid-mrl-meta-drift.md)
 
 ## Notes
 

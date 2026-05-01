@@ -154,6 +154,7 @@ preserved.
 - [Requests Are Review Units](./concepts/056-requests-are-review-units.md)
 - [Slice Docs Keep Build Bounded](./concepts/057-slice-docs-keep-build-bounded.md)
 - [Request To Slice Workflow](./notes/0028-request-to-slice-workflow.md)
+- [Avoid MRL Meta Drift](./notes/0029-avoid-mrl-meta-drift.md)
 
 ## Working Shape
 

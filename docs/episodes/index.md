@@ -28,6 +28,8 @@ Episode pages preserve the structured version of one specific video.
 - [Summaries Preserve Gist](./019-summaries-preserve-gist.md)
 - [Home Page Is A Curated Entry Point](./020-home-page-is-a-curated-entry-point.md)
 - [Featured Links Should Stay Selective](./021-featured-links-should-stay-selective.md)
+- [Broken Links Are Regressions](./022-broken-links-are-regressions.md)
+- [Reading Paths Should Stay Obvious](./023-reading-paths-should-stay-obvious.md)
 
 ## Notes
 
@@ -57,3 +59,5 @@ Episode pages preserve the structured version of one specific video.
 - [Summaries Preserve Gist](./019-summaries-preserve-gist.md)
 - [Home Page Is A Curated Entry Point](./020-home-page-is-a-curated-entry-point.md)
 - [Featured Links Should Stay Selective](./021-featured-links-should-stay-selective.md)
+- [Broken Links Are Regressions](./022-broken-links-are-regressions.md)
+- [Reading Paths Should Stay Obvious](./023-reading-paths-should-stay-obvious.md)

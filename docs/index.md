@@ -69,6 +69,11 @@ preserved.
 - [Curated Entry Points Reduce Friction](./concepts/curated-entry-points-reduce-friction.md)
 - [Home Pages Should Favor Signal](./concepts/home-pages-should-favor-signal.md)
 - [Front Door Curation Workflow](./notes/0011-front-door-curation-workflow.md)
+- [Broken Links Are Regressions](./episodes/022-broken-links-are-regressions.md)
+- [Reading Paths Should Stay Obvious](./episodes/023-reading-paths-should-stay-obvious.md)
+- [Link Hygiene Keeps The Site Trustworthy](./concepts/link-hygiene-keeps-the-site-trustworthy.md)
+- [Reading Path Is Part Of Editing](./concepts/reading-path-is-part-of-editing.md)
+- [Link Checking Workflow](./notes/0012-link-checking-workflow.md)
 
 ## Working Shape
 

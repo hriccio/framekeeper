@@ -13,3 +13,4 @@ Curated external references used to enrich videos and concepts belong here.
 ## Seeded References
 
 - [GitHub Pages](./github-pages.md)
+- [YouTube Community Guidelines](./youtube-community-guidelines.md)

@@ -29,6 +29,11 @@ preserved.
 - [WNT And CodingZen Stay Separate](./concepts/wnt-and-codingzen-stay-separate.md)
 - [Manual Publishing Rhythm](./concepts/manual-publishing-rhythm.md)
 - [Published Content Is Not Raw Evidence](./notes/0003-published-content-is-not-raw-evidence.md)
+- [References Support Episodes](./episodes/006-references-support-episodes.md)
+- [Source Links Keep Episodes Honest](./episodes/007-source-links-keep-episodes-honest.md)
+- [Curated References Are Evidence](./concepts/curated-references-are-evidence.md)
+- [YouTube Community Guidelines](./references/youtube-community-guidelines.md)
+- [Reference Curation Workflow](./notes/0004-reference-curation-workflow.md)
 
 ## Working Shape
 

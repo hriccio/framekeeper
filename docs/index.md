@@ -39,6 +39,11 @@ preserved.
 - [Local Links Make The Site Relatable](./concepts/local-links-make-the-site-relatable.md)
 - [Source Discipline Keeps Content Honest](./concepts/source-discipline-keeps-content-honest.md)
 - [Adding New Pages Workflow](./notes/0005-adding-new-pages-workflow.md)
+- [Drafts Become Refined Pages](./episodes/010-drafts-become-refined-pages.md)
+- [Review Before Publishing](./episodes/011-review-before-publishing.md)
+- [Drafts Are Not Final](./concepts/drafts-are-not-final.md)
+- [Review Preserves Context](./concepts/review-preserves-context.md)
+- [Draft To Refined Workflow](./notes/0006-draft-to-refined-workflow.md)
 
 ## Working Shape
 

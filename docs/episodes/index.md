@@ -16,6 +16,8 @@ Episode pages preserve the structured version of one specific video.
 - [Source Links Keep Episodes Honest](./007-source-links-keep-episodes-honest.md)
 - [Episodes Should Stay Short](./008-episodes-should-stay-short.md)
 - [Concepts Point To Episodes](./009-concepts-point-to-episodes.md)
+- [Drafts Become Refined Pages](./010-drafts-become-refined-pages.md)
+- [Review Before Publishing](./011-review-before-publishing.md)
 
 ## Notes
 
@@ -33,3 +35,5 @@ Episode pages preserve the structured version of one specific video.
 - [Source Links Keep Episodes Honest](./007-source-links-keep-episodes-honest.md)
 - [Episodes Should Stay Short](./008-episodes-should-stay-short.md)
 - [Concepts Point To Episodes](./009-concepts-point-to-episodes.md)
+- [Drafts Become Refined Pages](./010-drafts-become-refined-pages.md)
+- [Review Before Publishing](./011-review-before-publishing.md)

@@ -34,3 +34,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Home Pages Should Favor Signal](./home-pages-should-favor-signal.md)
 - [Link Hygiene Keeps The Site Trustworthy](./link-hygiene-keeps-the-site-trustworthy.md)
 - [Reading Path Is Part Of Editing](./reading-path-is-part-of-editing.md)
+- [Claims And Sources Stay Paired](./claims-and-sources-stay-paired.md)
+- [Reference Pages Are Not Dumps](./reference-pages-are-not-dumps.md)

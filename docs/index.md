@@ -74,6 +74,11 @@ preserved.
 - [Link Hygiene Keeps The Site Trustworthy](./concepts/link-hygiene-keeps-the-site-trustworthy.md)
 - [Reading Path Is Part Of Editing](./concepts/reading-path-is-part-of-editing.md)
 - [Link Checking Workflow](./notes/0012-link-checking-workflow.md)
+- [References Should Stay Targeted](./episodes/024-references-should-stay-targeted.md)
+- [Source Links Need An Anchor](./episodes/025-source-links-need-an-anchor.md)
+- [Claims And Sources Stay Paired](./concepts/claims-and-sources-stay-paired.md)
+- [Reference Pages Are Not Dumps](./concepts/reference-pages-are-not-dumps.md)
+- [Reference Review Workflow](./notes/0013-reference-review-workflow.md)
 
 ## Working Shape
 

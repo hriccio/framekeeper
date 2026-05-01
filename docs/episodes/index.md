@@ -30,6 +30,8 @@ Episode pages preserve the structured version of one specific video.
 - [Featured Links Should Stay Selective](./021-featured-links-should-stay-selective.md)
 - [Broken Links Are Regressions](./022-broken-links-are-regressions.md)
 - [Reading Paths Should Stay Obvious](./023-reading-paths-should-stay-obvious.md)
+- [References Should Stay Targeted](./024-references-should-stay-targeted.md)
+- [Source Links Need An Anchor](./025-source-links-need-an-anchor.md)
 
 ## Notes
 

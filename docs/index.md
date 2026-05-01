@@ -13,9 +13,14 @@ preserved.
 - [Concepts](./concepts/)
 - [References](./references/)
 
+## Featured Pages
+
+- [Contexto Em IA episode](./episodes/001-contexto-em-ia.md)
+- [Contexto Em IA concept](./concepts/contexto-em-ia.md)
+- [GitHub Pages reference](./references/github-pages.md)
+
 ## Working Shape
 
 - markdown first
 - raw transcripts stay outside the published site
 - manual editing comes before automation
-

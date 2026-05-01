@@ -9,3 +9,7 @@ Reusable ideas that appear across multiple videos belong here.
 - keep each concept page small and specific
 - link back to the episodes that use the concept
 - prefer durable phrasing over transcript fragments
+
+## Seeded Concepts
+
+- [Contexto Em IA](./contexto-em-ia.md)

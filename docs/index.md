@@ -18,6 +18,7 @@ preserved.
 - [Contexto Em IA episode](./episodes/001-contexto-em-ia.md)
 - [Contexto Em IA concept](./concepts/contexto-em-ia.md)
 - [GitHub Pages reference](./references/github-pages.md)
+- [Working Notes](./notes/0001-working-notes.md)
 
 ## Working Shape
 

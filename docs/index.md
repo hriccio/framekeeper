@@ -64,6 +64,11 @@ preserved.
 - [Titles And Summaries Have Different Jobs](./concepts/titles-and-summaries-have-different-jobs.md)
 - [Gist Should Stay Aligned](./concepts/gist-should-stay-aligned.md)
 - [Title Summary Workflow](./notes/0010-title-summary-workflow.md)
+- [Home Page Is A Curated Entry Point](./episodes/020-home-page-is-a-curated-entry-point.md)
+- [Featured Links Should Stay Selective](./episodes/021-featured-links-should-stay-selective.md)
+- [Curated Entry Points Reduce Friction](./concepts/curated-entry-points-reduce-friction.md)
+- [Home Pages Should Favor Signal](./concepts/home-pages-should-favor-signal.md)
+- [Front Door Curation Workflow](./notes/0011-front-door-curation-workflow.md)
 
 ## Working Shape
 

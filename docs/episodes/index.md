@@ -26,6 +26,8 @@ Episode pages preserve the structured version of one specific video.
 - [Notes Are For Intermediate Thinking](./017-notes-are-for-intermediate-thinking.md)
 - [Titles Should Match The Idea](./018-titles-should-match-the-idea.md)
 - [Summaries Preserve Gist](./019-summaries-preserve-gist.md)
+- [Home Page Is A Curated Entry Point](./020-home-page-is-a-curated-entry-point.md)
+- [Featured Links Should Stay Selective](./021-featured-links-should-stay-selective.md)
 
 ## Notes
 
@@ -53,3 +55,5 @@ Episode pages preserve the structured version of one specific video.
 - [Notes Are For Intermediate Thinking](./017-notes-are-for-intermediate-thinking.md)
 - [Titles Should Match The Idea](./018-titles-should-match-the-idea.md)
 - [Summaries Preserve Gist](./019-summaries-preserve-gist.md)
+- [Home Page Is A Curated Entry Point](./020-home-page-is-a-curated-entry-point.md)
+- [Featured Links Should Stay Selective](./021-featured-links-should-stay-selective.md)

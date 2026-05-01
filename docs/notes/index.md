@@ -16,6 +16,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Archive Maintenance Workflow](./0008-archive-maintenance-workflow.md)
 - [Page Family Map](./0009-page-family-map.md)
 - [Title Summary Workflow](./0010-title-summary-workflow.md)
+- [Front Door Curation Workflow](./0011-front-door-curation-workflow.md)
 
 ## Notes
 

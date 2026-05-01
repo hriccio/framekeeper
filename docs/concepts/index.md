@@ -30,3 +30,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Reference Pages Need Scope](./reference-pages-need-scope.md)
 - [Titles And Summaries Have Different Jobs](./titles-and-summaries-have-different-jobs.md)
 - [Gist Should Stay Aligned](./gist-should-stay-aligned.md)
+- [Curated Entry Points Reduce Friction](./curated-entry-points-reduce-friction.md)
+- [Home Pages Should Favor Signal](./home-pages-should-favor-signal.md)

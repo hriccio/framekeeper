@@ -18,6 +18,8 @@ Episode pages preserve the structured version of one specific video.
 - [Concepts Point To Episodes](./009-concepts-point-to-episodes.md)
 - [Drafts Become Refined Pages](./010-drafts-become-refined-pages.md)
 - [Review Before Publishing](./011-review-before-publishing.md)
+- [Metadata Keeps Pages Readable](./012-metadata-keeps-pages-readable.md)
+- [Template Pages Prevent Drift](./013-template-pages-prevent-drift.md)
 
 ## Notes
 
@@ -37,3 +39,5 @@ Episode pages preserve the structured version of one specific video.
 - [Concepts Point To Episodes](./009-concepts-point-to-episodes.md)
 - [Drafts Become Refined Pages](./010-drafts-become-refined-pages.md)
 - [Review Before Publishing](./011-review-before-publishing.md)
+- [Metadata Keeps Pages Readable](./012-metadata-keeps-pages-readable.md)
+- [Template Pages Prevent Drift](./013-template-pages-prevent-drift.md)

@@ -22,3 +22,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Source Discipline Keeps Content Honest](./source-discipline-keeps-content-honest.md)
 - [Drafts Are Not Final](./drafts-are-not-final.md)
 - [Review Preserves Context](./review-preserves-context.md)
+- [Page Shape Should Stay Predictable](./page-shape-should-stay-predictable.md)
+- [Indices Are Part Of The Content Model](./indices-are-part-of-the-content-model.md)

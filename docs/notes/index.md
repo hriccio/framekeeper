@@ -12,6 +12,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Reference Curation Workflow](./0004-reference-curation-workflow.md)
 - [Adding New Pages Workflow](./0005-adding-new-pages-workflow.md)
 - [Draft To Refined Workflow](./0006-draft-to-refined-workflow.md)
+- [Synchronizing Page Numbers](./0007-synchronizing-page-numbers.md)
 
 ## Notes
 

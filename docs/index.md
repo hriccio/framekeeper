@@ -44,6 +44,11 @@ preserved.
 - [Drafts Are Not Final](./concepts/drafts-are-not-final.md)
 - [Review Preserves Context](./concepts/review-preserves-context.md)
 - [Draft To Refined Workflow](./notes/0006-draft-to-refined-workflow.md)
+- [Metadata Keeps Pages Readable](./episodes/012-metadata-keeps-pages-readable.md)
+- [Template Pages Prevent Drift](./episodes/013-template-pages-prevent-drift.md)
+- [Page Shape Should Stay Predictable](./concepts/page-shape-should-stay-predictable.md)
+- [Indices Are Part Of The Content Model](./concepts/indices-are-part-of-the-content-model.md)
+- [Synchronizing Page Numbers](./notes/0007-synchronizing-page-numbers.md)
 
 ## Working Shape
 

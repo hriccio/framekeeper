@@ -19,6 +19,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Front Door Curation Workflow](./0011-front-door-curation-workflow.md)
 - [Link Checking Workflow](./0012-link-checking-workflow.md)
 - [Reference Review Workflow](./0013-reference-review-workflow.md)
+- [Transcript To Public Workflow](./0014-transcript-to-public-workflow.md)
 
 ## Notes
 

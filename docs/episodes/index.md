@@ -32,6 +32,8 @@ Episode pages preserve the structured version of one specific video.
 - [Reading Paths Should Stay Obvious](./023-reading-paths-should-stay-obvious.md)
 - [References Should Stay Targeted](./024-references-should-stay-targeted.md)
 - [Source Links Need An Anchor](./025-source-links-need-an-anchor.md)
+- [Raw Transcripts Stay Private](./026-raw-transcripts-stay-private.md)
+- [Public Pages Are Refined](./027-public-pages-are-refined.md)
 
 ## Notes
 

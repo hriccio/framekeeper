@@ -79,6 +79,11 @@ preserved.
 - [Claims And Sources Stay Paired](./concepts/claims-and-sources-stay-paired.md)
 - [Reference Pages Are Not Dumps](./concepts/reference-pages-are-not-dumps.md)
 - [Reference Review Workflow](./notes/0013-reference-review-workflow.md)
+- [Raw Transcripts Stay Private](./episodes/026-raw-transcripts-stay-private.md)
+- [Public Pages Are Refined](./episodes/027-public-pages-are-refined.md)
+- [Raw Evidence Is Not The Site](./concepts/raw-evidence-is-not-the-site.md)
+- [Public Content Needs Selection](./concepts/public-content-needs-selection.md)
+- [Transcript To Public Workflow](./notes/0014-transcript-to-public-workflow.md)
 
 ## Working Shape
 

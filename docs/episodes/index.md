@@ -40,6 +40,8 @@ Episode pages preserve the structured version of one specific video.
 - [References Become Reference Pages](./031-references-become-reference-pages.md)
 - [Sources Need Refresh Cycles](./032-sources-need-refresh-cycles.md)
 - [Policy References Age Over Time](./033-policy-references-age-over-time.md)
+- [Overlapping Ideas Need Pruning](./034-overlapping-ideas-need-pruning.md)
+- [Pruned Pages Read Better](./035-pruned-pages-read-better.md)
 
 ## Notes
 

@@ -99,6 +99,11 @@ preserved.
 - [Source Currency Keeps Trust Intact](./concepts/source-currency-keeps-trust-intact.md)
 - [Reference Drift Needs Review](./concepts/reference-drift-needs-review.md)
 - [Reference Refresh Workflow](./notes/0017-reference-refresh-workflow.md)
+- [Overlapping Ideas Need Pruning](./episodes/034-overlapping-ideas-need-pruning.md)
+- [Pruned Pages Read Better](./episodes/035-pruned-pages-read-better.md)
+- [Overlap Hurts The Page Family Model](./concepts/overlap-hurts-the-page-family-model.md)
+- [Pruning Keeps The Site Focused](./concepts/pruning-keeps-the-site-focused.md)
+- [Content Pruning Workflow](./notes/0018-content-pruning-workflow.md)
 
 ## Working Shape
 

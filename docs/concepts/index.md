@@ -44,3 +44,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Draft Candidates Need A Destination](./draft-candidates-need-a-destination.md)
 - [Source Currency Keeps Trust Intact](./source-currency-keeps-trust-intact.md)
 - [Reference Drift Needs Review](./reference-drift-needs-review.md)
+- [Overlap Hurts The Page Family Model](./overlap-hurts-the-page-family-model.md)
+- [Pruning Keeps The Site Focused](./pruning-keeps-the-site-focused.md)

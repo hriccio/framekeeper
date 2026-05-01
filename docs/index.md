@@ -129,6 +129,11 @@ preserved.
 - [Inspectable Runs Need Clear Artifacts](./concepts/inspectable-runs-need-clear-artifacts.md)
 - [Transcripts Are Intermediate Artifacts](./concepts/transcripts-are-intermediate-artifacts.md)
 - [Processing Run Workflow](./notes/0023-processing-run-workflow.md)
+- [Packs Define Implementation Defaults](./episodes/046-packs-define-implementation-defaults.md)
+- [Python DDD Monolith Is A Selected Pack](./episodes/047-python-ddd-monolith-is-a-selected-pack.md)
+- [MRL Core Is Separate From Packs](./concepts/mrl-core-is-separate-from-packs.md)
+- [Runtime Topology Belongs To The Pack](./concepts/runtime-topology-belongs-to-the-pack.md)
+- [Pack Selection Workflow](./notes/0024-pack-selection-workflow.md)
 
 ## Working Shape
 

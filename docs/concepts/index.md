@@ -56,3 +56,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Change Artifacts Keep The Loop Readable](./change-artifacts-keep-the-loop-readable.md)
 - [Inspectable Runs Need Clear Artifacts](./inspectable-runs-need-clear-artifacts.md)
 - [Transcripts Are Intermediate Artifacts](./transcripts-are-intermediate-artifacts.md)
+- [MRL Core Is Separate From Packs](./mrl-core-is-separate-from-packs.md)
+- [Runtime Topology Belongs To The Pack](./runtime-topology-belongs-to-the-pack.md)

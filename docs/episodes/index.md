@@ -52,6 +52,8 @@ Episode pages preserve the structured version of one specific video.
 - [Work Changes Preserve Loop History](./043-work-changes-preserve-loop-history.md)
 - [Processing Runs Stay Inspectable](./044-processing-runs-stay-inspectable.md)
 - [Transcripts And Metadata Travel Together](./045-transcripts-and-metadata-travel-together.md)
+- [Packs Define Implementation Defaults](./046-packs-define-implementation-defaults.md)
+- [Python DDD Monolith Is A Selected Pack](./047-python-ddd-monolith-is-a-selected-pack.md)
 
 ## Notes
 

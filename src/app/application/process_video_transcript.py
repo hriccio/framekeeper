@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from app.domain.models import (
+from ..domain.models import (
     PacketStatus,
     ReleasePacket,
     RiskLevel,
@@ -11,8 +11,8 @@ from app.domain.models import (
     Transcript,
     VideoSubmission,
 )
-from app.domain.safety import TranscriptSafetyClassifier
-from app.domain.signals import TranscriptSignalGenerator
+from ..domain.safety import TranscriptSafetyClassifier
+from ..domain.signals import TranscriptSignalGenerator
 
 
 @dataclass(frozen=True, slots=True)
@@ -92,4 +92,3 @@ def _excerpt(transcript: Transcript) -> str:
     if len(words) <= 24:
         return excerpt
     return f"{excerpt}..."
-

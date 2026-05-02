@@ -75,6 +75,11 @@ Recommended artifact types:
 Raw transcripts should remain outside the public site unless intentionally
 exposed.
 
+Framekeeper can also help generate markdown drafts for that knowledge layer
+from an already-provided transcript. In that path, local model-backed extraction
+and reference enrichment are acceptable as long as the first durable output is
+still markdown and publication remains separate.
+
 ## Evaluation Risks
 
 Watch for these expectation gaps:

@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+import re
+import unicodedata
+
 from .models import ContentFamily, ContentFamilyRecommendation, VideoSubmission
 
 
@@ -7,10 +10,16 @@ REFERENCE_CUES: tuple[tuple[str, str], ...] = (
     ("community guidelines", "community guidelines are the main source"),
     ("official", "official source language points to references"),
     ("documentation", "documentation language points to references"),
+    ("documentacao", "documentacao language points to references"),
     ("policy", "policy language points to references"),
     ("reference", "reference language points to references"),
+    ("referencia", "referencia language points to references"),
     ("source", "source language points to references"),
     ("according to", "attribution language points to references"),
+    ("fonte", "fonte language points to references"),
+    ("oficial", "oficial language points to references"),
+    ("segundo", "segundo language points to references"),
+    ("conforme", "conforme language points to references"),
 )
 
 NOTE_CUES: tuple[tuple[str, str], ...] = (
@@ -20,6 +29,11 @@ NOTE_CUES: tuple[tuple[str, str], ...] = (
     ("steps", "step language points to notes"),
     ("process", "process language points to notes"),
     ("procedure", "procedure language points to notes"),
+    ("passo a passo", "passo a passo language points to notes"),
+    ("fluxo", "fluxo language points to notes"),
+    ("processo", "processo language points to notes"),
+    ("procedimento", "procedimento language points to notes"),
+    ("etapas", "etapas language points to notes"),
     ("manual", "manual guidance points to notes"),
 )
 
@@ -27,10 +41,14 @@ CONCEPT_CUES: tuple[tuple[str, str], ...] = (
     ("principle", "principle language points to concepts"),
     ("boundary", "boundary language points to concepts"),
     ("distinction", "distinction language points to concepts"),
-    ("concept", "concept language points to concepts"),
     ("model", "model language points to concepts"),
     ("meaning", "meaning language points to concepts"),
     ("why it matters", "explanatory framing points to concepts"),
+    ("principio", "principio language points to concepts"),
+    ("limite", "limite language points to concepts"),
+    ("fronteira", "fronteira language points to concepts"),
+    ("significado", "significado language points to concepts"),
+    ("por que importa", "por que importa language points to concepts"),
 )
 
 
@@ -77,10 +95,21 @@ def _first_match(
     cues: tuple[tuple[str, str], ...],
 ) -> tuple[str, str] | None:
     for cue, reason in cues:
-        if cue in haystack:
+        if re.search(_cue_pattern(cue), haystack):
             return cue, reason
     return None
 
 
 def _normalize(text: str) -> str:
-    return " ".join(text.lower().split())
+    decomposed = unicodedata.normalize("NFKD", text.lower())
+    without_accents = "".join(
+        character
+        for character in decomposed
+        if not unicodedata.combining(character)
+    )
+    return " ".join(without_accents.split())
+
+
+def _cue_pattern(cue: str) -> str:
+    escaped = re.escape(_normalize(cue))
+    return rf"\b{escaped}\b"

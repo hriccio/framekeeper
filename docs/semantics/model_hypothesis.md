@@ -33,6 +33,8 @@ Safety and signal must never be mixed.
 - `SignalFeedback`: non-blocking summary, audience, hook, and diagnostic scores.
 - `ReleasePacket`: human-readable output prepared for manual publication review.
 - `KnowledgeArtifact`: markdown-oriented output for the slower public knowledge layer.
+- `MarkdownDraft`: a local draft artifact produced from transcript extraction and
+  reference enrichment before site publication.
 
 ## Candidate Use Cases
 
@@ -43,6 +45,8 @@ Safety and signal must never be mixed.
 - produce a release packet for manual review
 - create a draft episode artifact from a transcript
 - update reusable concept and reference candidates
+- generate markdown draft content from a transcript with local model-backed
+  extraction and enrichment
 
 ## Initial State Flow
 
@@ -74,6 +78,8 @@ must not publish automatically in the first slice.
 - no generic "quality gate"
 - preserve raw evidence before deriving refined artifacts
 - keep raw transcripts out of a public site unless intentionally exposed
+- markdown draft generation is an intermediate knowledge-layer step, not
+  publication itself
 
 ## Open Questions
 

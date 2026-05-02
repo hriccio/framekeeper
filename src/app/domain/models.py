@@ -17,6 +17,13 @@ class PacketStatus(str, Enum):
     BLOCKED = "BLOCKED"
 
 
+class ContentFamily(str, Enum):
+    EPISODE = "EPISODE"
+    CONCEPT = "CONCEPT"
+    REFERENCE = "REFERENCE"
+    NOTE = "NOTE"
+
+
 @dataclass(frozen=True, slots=True)
 class Transcript:
     text: str
@@ -60,6 +67,13 @@ class SignalFeedback:
     specificity: int
     coherence: int
     novelty: int
+
+
+@dataclass(frozen=True, slots=True)
+class ContentFamilyRecommendation:
+    family: ContentFamily
+    matched_cue: str
+    reason: str
 
 
 @dataclass(frozen=True, slots=True)
@@ -114,4 +128,3 @@ class ReleasePacket:
             ]
         )
         return "\n".join(lines)
-

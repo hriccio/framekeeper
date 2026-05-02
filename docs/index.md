@@ -155,6 +155,11 @@ preserved.
 - [Slice Docs Keep Build Bounded](./concepts/057-slice-docs-keep-build-bounded.md)
 - [Request To Slice Workflow](./notes/0028-request-to-slice-workflow.md)
 - [Avoid MRL Meta Drift](./notes/0029-avoid-mrl-meta-drift.md)
+- [Transcript Fragments Need An Editorial Angle](./episodes/056-transcript-fragments-need-an-editorial-angle.md)
+- [Source-Rich Ideas Belong In References](./episodes/057-source-rich-ideas-belong-in-references.md)
+- [Editorial Angle Guides Family Choice](./concepts/058-editorial-angle-guides-family-choice.md)
+- [Evidence Weight Shapes Content Form](./concepts/059-evidence-weight-shapes-content-form.md)
+- [Transcript Classification Checklist](./notes/0030-transcript-classification-checklist.md)
 
 ## Working Shape
 

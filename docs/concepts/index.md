@@ -66,3 +66,5 @@ Reusable ideas that appear across multiple videos belong here.
 - [Feedback Reopens The Loop](./055-feedback-reopens-the-loop.md)
 - [Requests Are Review Units](./056-requests-are-review-units.md)
 - [Slice Docs Keep Build Bounded](./057-slice-docs-keep-build-bounded.md)
+- [Editorial Angle Guides Family Choice](./058-editorial-angle-guides-family-choice.md)
+- [Evidence Weight Shapes Content Form](./059-evidence-weight-shapes-content-form.md)

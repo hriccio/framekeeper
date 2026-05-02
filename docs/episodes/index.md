@@ -62,6 +62,8 @@ Episode pages preserve the structured version of one specific video.
 - [Feedback Feeds The Next Request](./053-feedback-feeds-the-next-request.md)
 - [Requests Need Clear Boundaries](./054-requests-need-clear-boundaries.md)
 - [Slice Maps Make Coverage Visible](./055-slice-maps-make-coverage-visible.md)
+- [Transcript Fragments Need An Editorial Angle](./056-transcript-fragments-need-an-editorial-angle.md)
+- [Source-Rich Ideas Belong In References](./057-source-rich-ideas-belong-in-references.md)
 
 ## Notes
 

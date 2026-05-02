@@ -35,6 +35,7 @@ Notes are intermediate or semi-refined artifacts in the knowledge layer.
 - [Feedback Capture Workflow](./0027-feedback-capture-workflow.md)
 - [Request To Slice Workflow](./0028-request-to-slice-workflow.md)
 - [Avoid MRL Meta Drift](./0029-avoid-mrl-meta-drift.md)
+- [Transcript Classification Checklist](./0030-transcript-classification-checklist.md)
 
 ## Notes
 
